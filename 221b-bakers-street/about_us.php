@@ -67,7 +67,7 @@ session_start(); //start temp session until logout/browser closed
         <section class="hero bg-image" data-image-src="images/img/main.jpeg">
             <div class="hero-inner">
                 <div class="container text-center hero-text font-white">
-                    <h1>About Us</h1>
+                    <h1>Welcome to Our team</h1>
                     <!-- end:Steps -->
                 </div>
             </div>

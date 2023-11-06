@@ -157,5 +157,5 @@ CREATE TABLE IF NOT EXISTS `transaction` (
   `c_no` varchar(16) NOT NULL,
   `exp` varchar(10) NOT NULL,
   `cvv` int NOT NULL,
-  PRIMARY KEY (`d_id`)
+  PRIMARY KEY (`t_id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=18 ;
